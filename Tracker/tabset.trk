@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object class="org.opensourcephysics.cabrillo.tracker.TFrame">
+    <property name="tabs" type="array" class="[[Ljava.lang.String;">
+        <property name="[0]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (2).trk</property>
+            <property name="[1]" type="string">video (2).trk</property>
+        </property>
+        <property name="[1]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (3).trk</property>
+            <property name="[1]" type="string">video (3).trk</property>
+        </property>
+        <property name="[2]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (4).trk</property>
+            <property name="[1]" type="string">video (4).trk</property>
+        </property>
+        <property name="[3]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (5).trk</property>
+            <property name="[1]" type="string">video (5).trk</property>
+        </property>
+        <property name="[4]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (6).trk</property>
+            <property name="[1]" type="string">video (6).trk</property>
+        </property>
+        <property name="[5]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (7).trk</property>
+            <property name="[1]" type="string">video (7).trk</property>
+        </property>
+        <property name="[6]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (8).trk</property>
+            <property name="[1]" type="string">video (8).trk</property>
+        </property>
+        <property name="[7]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (9).trk</property>
+            <property name="[1]" type="string">video (9).trk</property>
+        </property>
+        <property name="[8]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (10).trk</property>
+            <property name="[1]" type="string">video (10).trk</property>
+        </property>
+        <property name="[9]" type="array" class="[Ljava.lang.String;">
+            <property name="[0]" type="string">C:/Users/elias/dev/fysikk_lab/Tracker/video (1).trk</property>
+            <property name="[1]" type="string">video (1).trk</property>
+        </property>
+    </property>
+</object>
